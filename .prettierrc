@@ -6,5 +6,8 @@
     "bracketSpacing": true,
     "endOfLine": "crlf",
     "printWidth": 100,
-    "singleAttributePerLine": true
+    "singleAttributePerLine": true,
+    "plugins": [
+        "prettier-plugin-tailwindcss"
+    ]
 }
